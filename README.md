@@ -18,7 +18,7 @@ Quem são os principais parceiros comerciais de cada estado brasileiro, quanto p
 | `dados/` | Dimensões do modelo estrela e a tabela de validação dos totais (homologação do ETL) |
 | `resultados/` | Saídas do Módulo C: séries previstas, métricas (MAPE), grupos de UFs, gráficos e as tabelas carregadas no Power BI (`pbi_*.csv`) |
 | `imagens/` | Diagramas do modelo e do ETL e capturas dos painéis do Power BI |
-| `relatorio/` | Relatório técnico do projeto |
+| `relatorio/` | Relatório técnico final do projeto (PDF entregue e versão Word) |
 | `dashboard/` | Arquivo do dashboard `Parceiros_Comerciais_Estados_Brasileiros.pbix` (Power BI Desktop) |
 | `videos/` | Vídeos de apresentação: dashboard (Módulo B) e análises avançadas (Módulo C) |
 
