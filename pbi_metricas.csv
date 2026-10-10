@@ -1,0 +1,7 @@
+﻿Fluxo;Modelo;MAPE;MAE (US$ bi);ESCOLHIDO
+Exportação;Sazonal ingênuo;9,71%;3,13;
+Exportação;Regressão tendência+sazonal;7,48%;2,45;Sim
+Exportação;Holt-Winters aditivo;7,87%;2,57;
+Importação;Sazonal ingênuo;8,37%;2,07;
+Importação;Regressão tendência+sazonal;7,62%;1,91;Sim
+Importação;Holt-Winters aditivo;9,60%;2,39;

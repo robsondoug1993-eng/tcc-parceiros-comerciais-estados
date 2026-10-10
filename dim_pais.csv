@@ -1,0 +1,253 @@
+﻿CO_PAIS;NO_PAIS;NO_PAIS_ING;CO_PAIS_ISOA3;UNIAO_EUROPEIA
+000;Não Definido;Not defined;ZZZ;Não
+013;Afeganistão;Afghanistan;AFG;Não
+015;Aland, Ilhas;Aland Islands;ALA;Não
+017;Albânia;Albania;ALB;Não
+023;Alemanha;Germany;DEU;Sim
+031;Burkina Faso;Burkina Faso;BFA;Não
+037;Andorra;Andorra;AND;Não
+040;Angola;Angola;AGO;Não
+041;Anguilla;Anguilla;AIA;Não
+042;Antártica;Antarctica;ATA;Não
+043;Antígua e Barbuda;Antigua and Barbuda;ATG;Não
+053;Arábia Saudita;Saudi Arabia;SAU;Não
+059;Argélia;Algeria;DZA;Não
+063;Argentina;Argentina;ARG;Não
+064;Armênia;Armenia;ARM;Não
+065;Aruba;Aruba;ABW;Não
+069;Austrália;Australia;AUS;Não
+072;Áustria;Austria;AUT;Sim
+073;Azerbaijão;Azerbaijan;AZE;Não
+077;Bahamas;Bahamas;BHS;Não
+080;Barein;Bahrein;BHR;Não
+081;Bangladesh;Bangladesh;BGD;Não
+083;Barbados;Barbados;BRB;Não
+085;Belarus;Belarus;BLR;Não
+087;Bélgica;Belgium;BEL;Sim
+088;Belize;Belize;BLZ;Não
+090;Bermudas;Bermuda;BMU;Não
+093;Mianmar;Myanmar;MMR;Não
+097;Bolívia;Bolivia;BOL;Não
+098;Bósnia-Herzegovina;Bosnia and Herzegovina;BIH;Não
+099;Bonaire, Saint Eustatius e Saba;Bonaire, Saint Eustatius and Saba;BES;Não
+101;Botsuana;Botswana;BWA;Não
+102;Bouvet, Ilha;Bouvet Island;BVT;Não
+105;Brasil;Brazil;BRA;Não
+108;Brunei;Brunei;BRN;Não
+111;Bulgária;Bulgaria;BGR;Sim
+115;Burundi;Burundi;BDI;Não
+119;Butão;Bhutan;BTN;Não
+127;Cabo Verde;Cape Verde;CPV;Não
+137;Cayman, Ilhas;Cayman Islands;CYM;Não
+141;Camboja;Cambodia;KHM;Não
+145;Camarões;Cameroon;CMR;Não
+149;Canadá;Canada;CAN;Não
+153;Cazaquistão;Kazakhstan;KAZ;Não
+154;Catar;Qatar;QAT;Não
+158;Chile;Chile;CHL;Não
+160;China;China;CHN;Não
+161;Taiwan (Formosa);Taiwan;TWN;Não
+163;Chipre;Cyprus;CYP;Sim
+165;Cocos (Keeling), Ilhas;Cocos (Keeling) Islands;CCK;Não
+169;Colômbia;Colombia;COL;Não
+173;Comores;Comoros;COM;Não
+177;Congo;Congo;COG;Não
+183;Cook, Ilhas;Cook Islands;COK;Não
+187;Coreia do Norte;North Korea;PRK;Não
+190;Coreia do Sul;South Korea;KOR;Não
+193;Costa do Marfim;Cote D'Ivore;CIV;Não
+195;Croácia;Croatia;HRV;Sim
+196;Costa Rica;Costa Rica;CRI;Não
+198;Coveite (Kuweit);Kuwait;KWT;Não
+199;Cuba;Cuba;CUB;Não
+200;Curaçao;Curaçao;CUW;Não
+229;Benin;Benin;BEN;Não
+232;Dinamarca;Denmark;DNK;Sim
+235;Dominica;Dominica Island;DMA;Não
+239;Equador;Ecuador;ECU;Não
+240;Egito;Egypt;EGY;Não
+243;Eritreia;Eritrea;ERI;Não
+244;Emirados Árabes Unidos;United Arab Emirates;ARE;Não
+245;Espanha;Spain;ESP;Sim
+246;Eslovênia;Slovenia;SVN;Sim
+247;Eslováquia;Slovakia;SVK;Sim
+249;Estados Unidos;United States;USA;Não
+251;Estônia;Estonia;EST;Sim
+253;Etiópia;Ethiopia;ETH;Não
+255;Falkland (Malvinas);Falkland Islands (Malvinas);FLK;Não
+259;Faroe, Ilhas;Faroe Islands;FRO;Não
+267;Filipinas;Philippines;PHL;Não
+271;Finlândia;Finland;FIN;Sim
+275;França;France;FRA;Sim
+281;Gabão;Gabon;GAB;Não
+285;Gâmbia;Gambia;GMB;Não
+289;Gana;Ghana;GHA;Não
+291;Geórgia;Georgia;GEO;Não
+292;Geórgia do Sul e Sandwich do Sul, Ilhas;South Georgia and the South Sandwich Islands;SGS;Não
+293;Gibraltar;Gibraltar;GIB;Não
+297;Granada;Grenada;GRD;Não
+301;Grécia;Greece;GRC;Sim
+305;Groenlândia;Greenland;GRL;Não
+309;Guadalupe;Guadeloupe;GLP;Não
+313;Guam;Guam;GUM;Não
+317;Guatemala;Guatemala;GTM;Não
+321;Guernsey;Guernsey;GGY;Não
+325;Guiana Francesa;French Guyana;GUF;Não
+329;Guiné;Guinea;GIN;Não
+331;Guiné Equatorial;Equatorial Guinea;GNQ;Não
+334;Guiné-Bissau;Guinea-Bissau;GNB;Não
+337;Guiana;Guyana;GUY;Não
+341;Haiti;Haiti;HTI;Não
+343;Heard e ilhas mcdonald, Ilha;Heard Island and McDonald Islands;HMD;Não
+345;Honduras;Honduras;HND;Não
+351;Hong Kong;Hong Kong;HKG;Não
+355;Hungria;Hungary;HUN;Sim
+357;Iêmen;Yemen;YEM;Não
+359;Ilha de Man;Isle of Man;IMN;Não
+361;Índia;India;IND;Não
+365;Indonésia;Indonesia;IDN;Não
+369;Iraque;Iraq;IRQ;Não
+372;Irã;Iran;IRN;Não
+375;Irlanda;Ireland;IRL;Sim
+379;Islândia;Iceland;ISL;Não
+383;Israel;Israel;ISR;Não
+386;Itália;Italy;ITA;Sim
+391;Jamaica;Jamaica;JAM;Não
+393;Jersey;Jersey;ZZZ;Não
+399;Japão;Japan;JPN;Não
+403;Jordânia;Jordan;JOR;Não
+411;Kiribati;Kiribati;KIR;Não
+420;Laos;Laos;LAO;Não
+426;Lesoto;Lesotho;LSO;Não
+427;Letônia;Latvia;LVA;Sim
+431;Líbano;Lebanon;LBN;Não
+434;Libéria;Liberia;LBR;Não
+438;Líbia;Libya;LBY;Não
+440;Liechtenstein;Liechtenstein;LIE;Não
+442;Lituânia;Lithuania;LTU;Sim
+445;Luxemburgo;Luxembourg;LUX;Sim
+447;Macau;Macao;MAC;Não
+449;Macedônia;Macedonia;MKD;Não
+450;Madagascar;Madagascar;MDG;Não
+455;Malásia;Malaysia;MYS;Não
+458;Malavi;Malawi;MWI;Não
+461;Maldivas;Maldives;MDV;Não
+464;Mali;Mali;MLI;Não
+467;Malta;Malta;MLT;Sim
+472;Marianas do Norte, Ilhas;Northern Marianas;MNP;Não
+474;Marrocos;Morocco;MAR;Não
+476;Marshall, Ilhas;Marshall Islands;MHL;Não
+477;Martinica;Martinique;MTQ;Não
+485;Maurício;Mauritius;MUS;Não
+488;Mauritânia;Mauritania;MRT;Não
+489;Mayotte;Mayotte;ZZZ;Não
+493;México;Mexico;MEX;Não
+494;Moldávia;Moldova;MDA;Não
+495;Mônaco;Monaco;MCO;Não
+497;Mongólia;Mongolia;MNG;Não
+498;Montenegro;Montenegro;MNE;Não
+499;Micronésia;Micronesia;FSM;Não
+501;Montserrat;Montserrat;MSR;Não
+505;Moçambique;Mozambique;MOZ;Não
+507;Namíbia;Namibia;NAM;Não
+508;Nauru;Nauru;NRU;Não
+511;Christmas (Navidad), Ilha;Christmas Island;CXR;Não
+517;Nepal;Nepal;NPL;Não
+521;Nicarágua;Nicaragua;NIC;Não
+525;Níger;Niger;NER;Não
+528;Nigéria;Nigeria;NGA;Não
+531;Niue;Niue;NIU;Não
+535;Norfolk, Ilha;Norfolk Island;NFK;Não
+538;Noruega;Norway;NOR;Não
+542;Nova Caledônia;New Caledonia;NCL;Não
+545;Papua Nova Guiné;Papua New Guinea;PNG;Não
+548;Nova Zelândia;New Zealand;NZL;Não
+551;Vanuatu;Vanuatu;VUT;Não
+556;Omã;Oman;OMN;Não
+566;Pacífico, Ilhas do (EUA);Pacific Islands (USA);UMI;Não
+573;Países Baixos (Holanda);Netherlands;NLD;Sim
+575;Palau;Palau;PLW;Não
+576;Paquistão;Pakistan;PAK;Não
+578;Palestina;Palestine;PSE;Não
+580;Panamá;Panama;PAN;Não
+586;Paraguai;Paraguay;PRY;Não
+589;Peru;Peru;PER;Não
+593;Pitcairn;Pitcairn;PCN;Não
+599;Polinésia Francesa;French Polynesia;PYF;Não
+603;Polônia;Poland;POL;Sim
+607;Portugal;Portugal;PRT;Sim
+611;Porto Rico;Puerto Rico;PRI;Não
+623;Quênia;Kenya;KEN;Não
+625;Quirguistão;Kyrgyzstan;KGZ;Não
+628;Reino Unido;United Kingdom;GBR;Não
+640;República Centro-Africana;Central African Republic;CAF;Não
+647;República Dominicana;Dominican Republic;DOM;Não
+660;Reunião;Reunion;REU;Não
+665;Zimbábue;Zimbabwe;ZWE;Não
+670;Romênia;Romania;ROU;Sim
+675;Ruanda;Rwanda;RWA;Não
+676;Rússia;Russia;RUS;Não
+677;Salomão, Ilhas;Solomon Islands;SLB;Não
+685;Saara Ocidental;Western Sahara;ESH;Não
+687;El Salvador;El Salvador;SLV;Não
+690;Samoa;Samoa;WSM;Não
+691;Samoa Americana;Americana Samoa;ASM;Não
+693;São Bartolomeu;Saint Barthelemy;BLM;Não
+695;São Cristóvão e Névis;Saint Christopher and Nevis;KNA;Não
+697;San Marino;San Marino;SMR;Não
+698;São Martinho, Ilha de (parte francesa);São Martinho, Ilha de (parte francesa);ZZZ;Não
+699;Sint Maarten;Sint Maarten;SXM;Não
+700;São Pedro e Miquelon;Saint Pierre and Miquelon;SPM;Não
+705;São Vicente e Granadinas;Saint Vicent and the Granadines;VCT;Não
+710;Santa Helena;Saint Helena;SHN;Não
+715;Santa Lúcia;Saint Lucia;LCA;Não
+720;São Tomé e Príncipe;São Tome and Principe;STP;Não
+728;Senegal;Senegal;SEN;Não
+731;Seicheles;Seychelles;SYC;Não
+735;Serra Leoa;Sierra Leone;SLE;Não
+737;Sérvia;Serbia;SRB;Não
+741;Singapura;Singapore;SGP;Não
+744;Síria;Syria;SYR;Não
+748;Somália;Somalia;SOM;Não
+750;Sri Lanka;Sri Lanka;LKA;Não
+754;Suazilândia;Swaziland;SWZ;Não
+755;Svalbard e Jan Mayen;Svalbard and Jan Mayen;SJM;Não
+756;África do Sul;South Africa;ZAF;Não
+759;Sudão;Sudan;SDN;Não
+760;Sudão do Sul;South Sudan;SSD;Não
+764;Suécia;Sweden;SWE;Sim
+767;Suíça;Switzerland;CHE;Não
+770;Suriname;Suriname;SUR;Não
+772;Tadjiquistão;Tajikistan;TJK;Não
+776;Tailândia;Thailand;THA;Não
+780;Tanzânia;Tanzania;TZA;Não
+781;Terras Austrais Francesas;French Southern Lands;ATF;Não
+782;Território Britânico do Oceano Índico;British Indian Ocean Territory;IOT;Não
+783;Djibuti;Djibouti;DJI;Não
+788;Chade;Chad;TCD;Não
+791;Tcheca, República;Czech Republic;CZE;Sim
+795;Timor Leste;East Timor;TLS;Não
+800;Togo;Togo;TGO;Não
+805;Toquelau;Tokelau;TKL;Não
+810;Tonga;Tonga;TON;Não
+815;Trinidad e Tobago;Trinidad and Tobago;TTO;Não
+820;Tunísia;Tunisia;TUN;Não
+823;Turcas e Caicos, Ilhas;Turks and Caicos, Islands;TCA;Não
+824;Turcomenistão;Turkmenistan;TKM;Não
+827;Turquia;Turkey;TUR;Não
+828;Tuvalu;Tuvalu;TUV;Não
+831;Ucrânia;Ukraine;UKR;Não
+833;Uganda;Uganda;UGA;Não
+845;Uruguai;Uruguay;URY;Não
+847;Uzbequistão;Uzbekistan;UZB;Não
+848;Vaticano;Vatican City;VAT;Não
+850;Venezuela;Venezuela;VEN;Não
+858;Vietnã;Vietnam;VNM;Não
+863;Virgens, Ilhas (Britânicas);Virgin Islands (UK);VGB;Não
+866;Virgens, Ilhas (Americanas);Virgin Islands (USA);VIR;Não
+870;Fiji;Fiji;FJI;Não
+875;Wallis e Futuna, Ilhas;Wallis and Futuna;WLF;Não
+888;Congo, República Democrática;Democratic Republic of the Congo;COD;Não
+890;Zâmbia;Zambia;ZMB;Não
+995;Bancos Centrais;Central Banks;ZZZ;Não
+997;Organizações Internacionais;International Organizations;ZZZ;Não

@@ -1,0 +1,163 @@
+﻿DATA;FLUXO;TIPO;VALOR_US$_mi;LIM_INF_US$_mi;LIM_SUP_US$_mi
+2022-01-01;Exportação;Real;19779;;
+2022-02-01;Exportação;Real;23513;;
+2022-03-01;Exportação;Real;29422;;
+2022-04-01;Exportação;Real;28970;;
+2022-05-01;Exportação;Real;29643;;
+2022-06-01;Exportação;Real;32742;;
+2022-07-01;Exportação;Real;29844;;
+2022-08-01;Exportação;Real;30786;;
+2022-09-01;Exportação;Real;28587;;
+2022-10-01;Exportação;Real;26832;;
+2022-11-01;Exportação;Real;27615;;
+2022-12-01;Exportação;Real;26257;;
+2023-01-01;Exportação;Real;22774;;
+2023-02-01;Exportação;Real;20184;;
+2023-03-01;Exportação;Real;32801;;
+2023-04-01;Exportação;Real;27092;;
+2023-05-01;Exportação;Real;32653;;
+2023-06-01;Exportação;Real;29566;;
+2023-07-01;Exportação;Real;28248;;
+2023-08-01;Exportação;Real;31101;;
+2023-09-01;Exportação;Real;28713;;
+2023-10-01;Exportação;Real;29601;;
+2023-11-01;Exportação;Real;27885;;
+2023-12-01;Exportação;Real;28688;;
+2024-01-01;Exportação;Real;26679;;
+2024-02-01;Exportação;Real;23347;;
+2024-03-01;Exportação;Real;27626;;
+2024-04-01;Exportação;Real;30326;;
+2024-05-01;Exportação;Real;30081;;
+2024-06-01;Exportação;Real;28728;;
+2024-07-01;Exportação;Real;30814;;
+2024-08-01;Exportação;Real;28661;;
+2024-09-01;Exportação;Real;28332;;
+2024-10-01;Exportação;Real;29258;;
+2024-11-01;Exportação;Real;27807;;
+2024-12-01;Exportação;Real;24812;;
+2025-01-01;Exportação;Real;25365;;
+2025-02-01;Exportação;Real;22696;;
+2025-03-01;Exportação;Real;28675;;
+2025-04-01;Exportação;Real;29848;;
+2025-05-01;Exportação;Real;29878;;
+2025-06-01;Exportação;Real;29017;;
+2025-07-01;Exportação;Real;32074;;
+2025-08-01;Exportação;Real;29538;;
+2025-09-01;Exportação;Real;30460;;
+2025-10-01;Exportação;Real;31501;;
+2025-11-01;Exportação;Real;28139;;
+2025-12-01;Exportação;Real;30707;;
+2026-01-01;Exportação;Real;24500;;
+2026-02-01;Exportação;Real;26230;;
+2026-03-01;Exportação;Real;31745;;
+2026-04-01;Exportação;Real;34278;;
+2026-05-01;Exportação;Real;31468;;
+2026-06-01;Exportação;Real;35381;;
+2026-07-01;Exportação;Real;33346;;
+2026-08-01;Exportação;Real;32664;;
+2026-09-01;Exportação;Real;34357;;
+2026-01-01;Exportação;Teste (previsto);24459;;
+2026-02-01;Exportação;Teste (previsto);23245;;
+2026-03-01;Exportação;Teste (previsto);30441;;
+2026-04-01;Exportação;Teste (previsto);29869;;
+2026-05-01;Exportação;Teste (previsto);31374;;
+2026-06-01;Exportação;Teste (previsto);30823;;
+2026-07-01;Exportação;Teste (previsto);31055;;
+2026-08-01;Exportação;Teste (previsto);30832;;
+2026-09-01;Exportação;Teste (previsto);29833;;
+2026-10-01;Exportação;Previsão;31158;27628;34687
+2026-11-01;Exportação;Previsão;29721;26192;33251
+2026-12-01;Exportação;Previsão;29476;25946;33005
+2027-01-01;Exportação;Previsão;26051;22521;29580
+2027-02-01;Exportação;Previsão;25426;21896;28955
+2027-03-01;Exportação;Previsão;32285;28756;35815
+2027-04-01;Exportação;Previsão;32334;28804;35864
+2027-05-01;Exportação;Previsão;32976;29446;36506
+2027-06-01;Exportação;Previsão;33318;29789;36848
+2027-07-01;Exportação;Previsão;33097;29567;36626
+2027-08-01;Exportação;Previsão;32781;29252;36311
+2027-09-01;Exportação;Previsão;32321;28792;35851
+2027-10-01;Exportação;Previsão;31901;28372;35431
+2027-11-01;Exportação;Previsão;30465;26935;33995
+2027-12-01;Exportação;Previsão;30219;26690;33749
+2022-01-01;Importação;Real;19817;;
+2022-02-01;Importação;Real;18860;;
+2022-03-01;Importação;Real;21784;;
+2022-04-01;Importação;Real;20726;;
+2022-05-01;Importação;Real;24663;;
+2022-06-01;Importação;Real;23810;;
+2022-07-01;Importação;Real;24462;;
+2022-08-01;Importação;Real;26660;;
+2022-09-01;Importação;Real;24849;;
+2022-10-01;Importação;Real;23456;;
+2022-11-01;Importação;Real;21431;;
+2022-12-01;Importação;Real;21788;;
+2023-01-01;Importação;Real;20489;;
+2023-02-01;Importação;Real;17648;;
+2023-03-01;Importação;Real;22047;;
+2023-04-01;Importação;Real;19113;;
+2023-05-01;Importação;Real;21640;;
+2023-06-01;Importação;Real;19505;;
+2023-07-01;Importação;Real;20087;;
+2023-08-01;Importação;Real;21444;;
+2023-09-01;Importação;Real;19505;;
+2023-10-01;Importação;Real;20459;;
+2023-11-01;Importação;Real;19059;;
+2023-12-01;Importação;Real;19443;;
+2024-01-01;Importação;Real;20476;;
+2024-02-01;Importação;Real;18196;;
+2024-03-01;Importação;Real;20458;;
+2024-04-01;Importação;Real;21827;;
+2024-05-01;Importação;Real;21864;;
+2024-06-01;Importação;Real;22360;;
+2024-07-01;Importação;Real;23248;;
+2024-08-01;Importação;Real;24185;;
+2024-09-01;Importação;Real;23321;;
+2024-10-01;Importação;Real;25154;;
+2024-11-01;Importação;Real;21074;;
+2024-12-01;Importação;Real;20161;;
+2025-01-01;Importação;Real;23004;;
+2025-02-01;Importação;Real;23174;;
+2025-03-01;Importação;Real;20947;;
+2025-04-01;Importação;Real;22186;;
+2025-05-01;Importação;Real;22817;;
+2025-06-01;Importação;Real;23117;;
+2025-07-01;Importação;Real;25069;;
+2025-08-01;Importação;Real;23538;;
+2025-09-01;Importação;Real;27301;;
+2025-10-01;Importação;Real;24752;;
+2025-11-01;Importação;Real;22361;;
+2025-12-01;Importação;Real;21350;;
+2026-01-01;Importação;Real;20747;;
+2026-02-01;Importação;Real;22187;;
+2026-03-01;Importação;Real;25228;;
+2026-04-01;Importação;Real;23610;;
+2026-05-01;Importação;Real;24080;;
+2026-06-01;Importação;Real;26455;;
+2026-07-01;Importação;Real;27104;;
+2026-08-01;Importação;Real;25771;;
+2026-09-01;Importação;Real;26507;;
+2026-01-01;Importação;Teste (previsto);21859;;
+2026-02-01;Importação;Teste (previsto);20382;;
+2026-03-01;Importação;Teste (previsto);22222;;
+2026-04-01;Importação;Teste (previsto);21876;;
+2026-05-01;Importação;Teste (previsto);23659;;
+2026-06-01;Importação;Teste (previsto);23111;;
+2026-07-01;Importação;Teste (previsto);24129;;
+2026-08-01;Importação;Teste (previsto);24869;;
+2026-09-01;Importação;Teste (previsto);24657;;
+2026-10-01;Importação;Previsão;25078;22286;27871
+2026-11-01;Importação;Previsão;22605;19813;25397
+2026-12-01;Importação;Previsão;22309;19517;25101
+2027-01-01;Importação;Previsão;22855;20063;25647
+2027-02-01;Importação;Previsão;21961;19169;24753
+2027-03-01;Importação;Previsão;24041;21249;26833
+2027-04-01;Importação;Previsão;23441;20649;26233
+2027-05-01;Importação;Previsão;24961;22169;27753
+2027-06-01;Importação;Previsão;24998;22205;27790
+2027-07-01;Importação;Previsão;25942;23150;28734
+2027-08-01;Importação;Previsão;26268;23476;29060
+2027-09-01;Importação;Previsão;26245;23453;29037
+2027-10-01;Importação;Previsão;25728;22936;28520
+2027-11-01;Importação;Previsão;23254;20462;26046
+2027-12-01;Importação;Previsão;22959;20167;25751
