@@ -19,7 +19,7 @@ Quem são os principais parceiros comerciais de cada estado brasileiro, quanto p
 | `resultados/` | Saídas do Módulo C: séries previstas, métricas (MAPE), grupos de UFs, gráficos e as tabelas carregadas no Power BI (`pbi_*.csv`) |
 | `imagens/` | Diagramas do modelo e do ETL e capturas dos painéis do Power BI |
 | `relatorio/` | Relatório técnico do projeto |
-| `dashboard/` | Arquivo do dashboard `BI TCC.pbix` (Power BI Desktop) |
+| `dashboard/` | Arquivo do dashboard `Parceiros_Comerciais_Estados_Brasileiros.pbix` (Power BI Desktop) |
 | `videos/` | Vídeos de apresentação: dashboard (Módulo B) e análises avançadas (Módulo C) |
 
 ## Dashboard (Power BI)
@@ -41,7 +41,7 @@ Modelo estrela com a fato `fato_comercio` (mês × fluxo × UF × país × SH4 �
 3. Rode o ETL: `python etl_comex.py <pasta_dos_brutos> <pasta_saida>`
    A fato `fato_comercio.csv` (cerca de 6,2 milhões de linhas, 230 MB) não está no repositório por ultrapassar o limite de tamanho do GitHub; ela é gerada por este passo.
 4. Rode as análises: `python modulo_c.py`
-5. Abra `dashboard/BI TCC.pbix` no Power BI Desktop e aponte as fontes para a pasta de saída.
+5. Abra `dashboard/Parceiros_Comerciais_Estados_Brasileiros.pbix` no Power BI Desktop e aponte as fontes para a pasta de saída.
 
 ## Principais resultados
 
