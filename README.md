@@ -20,7 +20,7 @@ Quem são os principais parceiros comerciais de cada estado brasileiro, quanto p
 | `imagens/` | Diagramas do modelo e do ETL e capturas dos painéis do Power BI |
 | `relatorio/` | Relatório técnico do projeto |
 | `dashboard/` | Arquivo do dashboard `BI TCC.pbix` (Power BI Desktop) |
-| `videos/` | Vídeo de apresentação do dashboard (Módulo B) |
+| `videos/` | Vídeos de apresentação: dashboard (Módulo B) e análises avançadas (Módulo C) |
 
 ## Dashboard (Power BI)
 
