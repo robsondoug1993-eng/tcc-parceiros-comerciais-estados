@@ -264,3 +264,32 @@ fig.tight_layout()
 fig.savefig(os.path.join(RES, "grafico_clusters.png"))
 plt.close(fig)
 print("Resultados gravados em", RES)
+
+# ================================================================ 3) EXPORTAÇÃO PARA O POWER BI
+# Valores inteiros (US$ milhões e % inteiros) para evitar ambiguidade de separador
+# decimal (Power BI em pt-BR lê "19.779" como 19779).
+pbi = os.path.join(RES, "powerbi")
+os.makedirs(pbi, exist_ok=True)
+p = prev.copy()
+p["VALOR_US$_mi"] = (p["VALOR_US$_bi"] * 1000).round().astype("Int64")
+for c in ["LIM_INF", "LIM_SUP"]:
+    p[c + "_US$_mi"] = (p[c] * 1000).round().astype("Int64")
+p["FLUXO"] = p.FLUXO.map({"EXP": "Exportação", "IMP": "Importação"})
+p[["DATA", "FLUXO", "TIPO", "VALOR_US$_mi", "LIM_INF_US$_mi", "LIM_SUP_US$_mi"]].to_csv(
+    os.path.join(pbi, "pbi_previsao.csv"), sep=";", index=False, encoding="utf-8-sig")
+m = met.copy()
+m["MAPE"] = m["MAPE_%"].map(lambda v: f"{v:.2f}%".replace(".", ","))
+m["MAE (US$ bi)"] = m["MAE_US$_bi"].map(lambda v: f"{v:.2f}".replace(".", ","))
+m["ESCOLHIDO"] = m.groupby("Fluxo")["MAPE_%"].transform(lambda s: s == s.min()).map({True: "Sim", False: ""})
+m[["Fluxo", "Modelo", "MAPE", "MAE (US$ bi)", "ESCOLHIDO"]].to_csv(
+    os.path.join(pbi, "pbi_metricas.csv"), sep=";", index=False, encoding="utf-8-sig")
+cl = perfil.reset_index()[["UF", "CLUSTER", "GRUPO"]].copy()
+cl["GRUPO"] = "G" + cl.CLUSTER.astype(str) + " - " + cl.GRUPO
+for c, n in [("PCT_CHINA", "PCT_CHINA"), ("PCT_EUA", "PCT_EUA"), ("PCT_UE", "PCT_UE"),
+             ("PCT_MERCOSUL", "PCT_MERCOSUL"), ("PCT_BASICOS", "PCT_BASICOS"),
+             ("PCT_1O_DESTINO", "PCT_1O_DESTINO")]:
+    cl[n] = (perfil[c].values * 100).round().astype(int)
+cl["PCT_EUA_UE"] = cl.PCT_EUA + cl.PCT_UE
+cl["EXPORTACAO_US$_mi"] = (perfil["EXPORTACAO_US$_bi"].values * 1000).round().astype(int)
+cl.to_csv(os.path.join(pbi, "pbi_clusters.csv"), sep=";", index=False, encoding="utf-8-sig")
+print("Arquivos para o Power BI em", pbi)
