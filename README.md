@@ -47,6 +47,7 @@ Modelo estrela com a fato `fato_comercio` (mês × fluxo × UF × país × SH4 �
 
 - Totais do ETL conferem 100% com os arquivos brutos (ver `dados/validacao_totais.csv`).
 - Previsão: a regressão com tendência e sazonalidade mensal teve o menor erro (MAPE de 7,5% nas exportações e 7,6% nas importações no teste de jan–set/2026).
-- Agrupamento: três perfis de estados – diversificados (12 UFs), concentrados na China e em commodities (9 UFs) e de menor porte com pauta específica (6 UFs).
+- Agrupamento exploratório (K-Means, k = 3, silhueta 0,24): três perfis de estados – pauta e destinos diversificados (12 UFs), commodities concentradas na China (9 UFs) e voltados a EUA e União Europeia (6 UFs).
+- Os valores do painel excluem as UFs EX/ND e os países 100 (Zona Franca) e 105 (Brasil); por isso ficam até 0,3% abaixo dos totais brutos de `dados/validacao_totais.csv`.
 
 Fonte dos dados: Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) – Comex Stat. Dados públicos.
